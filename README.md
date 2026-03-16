@@ -1,5 +1,8 @@
 # QMIX-Robustness-in-a-Multi-Agent-Maze-with-Traps
 
+This repository contains our final project for COMP4900I/5801G at Carleton University.
+Academic Integrity Notice: This project is shared for portfolio and educational purposes only. Students should not copy or submit any part of this work for academic credit. Please cite this repository if you reference it.
+
 This project tests how well QMIX generalizes when the number of agents changes and when the maze layout changes.
 Agents must navigate a maze, avoid hidden traps, and reach a goal. The environment is partially observable, and traps behave like “spring traps” — the first agent dies, but the trap becomes safe afterward.
 
